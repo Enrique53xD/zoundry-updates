@@ -3,6 +3,14 @@
     <channel>
         <title>Zoundry</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Thu, 09 Apr 2026 15:57:41 -0600</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry-0.1.1.dmg" length="3152135" type="application/octet-stream" sparkle:edSignature="m5nHYmH7Kp9dJg/5y7YIDLdBUif99V4AD/HpPDNc/dHXPGQff4OA3du0NcPIICghgCxVMYCxEoDWQuzZ7vZQCQ=="/>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Thu, 09 Apr 2026 15:25:39 -0600</pubDate>
             <sparkle:version>1</sparkle:version>
