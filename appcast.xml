@@ -3,6 +3,21 @@
     <channel>
         <title>Zoundry</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Sat, 25 Apr 2026 16:53:21 -0600</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry-0.2.3.dmg" length="3416560" type="application/octet-stream" sparkle:edSignature="uzvVjnIr3QPE0TcVFb04FrJLKW5N/PYCLGOZion7qi/WRrPAN9H1r2YNpGM6VAqaoZiBgU9kvXRWYsXwdCL9BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry9-8.delta" sparkle:deltaFrom="8" length="128706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4vl/meiH1ZLGEbHPTw1VLAQTT8sGrhPMbwVXEyLL3UWhH+N+pnf27RRBACuxqhFrTn/RH0kOE/yW9uYd+IRECg=="/>
+                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry9-7.delta" sparkle:deltaFrom="7" length="179786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LcS77181NZQdGaLXFkS8ULqGezjpF+ftDfmfqTnAcOmEwYUTrT9HpYGen1nZ02f10gEulGVG8olVQfshPYxUAw=="/>
+                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry9-6.delta" sparkle:deltaFrom="6" length="215198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fFQR8tezBvyUMFnx7gn3+UFbL46GIyZ7E4pwiZCpFyFdI9dPs+qYTupuGks7CDVxqHAGaGhhkDzoobckPrWzBA=="/>
+                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry9-5.delta" sparkle:deltaFrom="5" length="245114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rG/WmtYUX+1yMJaGvRQJYK72gau95BpWcdxKME4IU34dSxyaADbooRevXXnRWn4jpK206ryKXQ5V9ax2v1L7DQ=="/>
+                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry9-4.delta" sparkle:deltaFrom="4" length="244638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gn9gf8Q6wqsSL2JFvzuqUZEyPpLA4vianthqFpwkx+19aymlLyYR8b2zZRZCQlkwAr6ZzzgCCvXGlylqxreKCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Sat, 18 Apr 2026 16:24:08 -0600</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -27,18 +42,6 @@
                 <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry7-6.delta" sparkle:deltaFrom="6" length="140046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fuue2KPcjjKEt992XCqOCsN8zNjL9Biff0V79Uq29WZWm5R85zUvO7JjmXWlsy4irWeGmMZy41eIch+JWJRqAA=="/>
                 <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry7-5.delta" sparkle:deltaFrom="5" length="188298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iH7UAuoVPlEqRO+chvrVTScvUK2LranPXZr0klFETc3/b/McorHcRER9LIYvPf3Sftnv7rhmt6EprvvF2HaYCw=="/>
                 <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry7-4.delta" sparkle:deltaFrom="4" length="188634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hGm9YXiWjJnT+AQpxYM5Ca74rFaONVhq5OFspgadfdKazoa4ausmF3HWSdTopvNPXRfqA9nGqO4yLkMXHWkSDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 11 Apr 2026 14:57:46 -0600</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry-0.2.0.dmg" length="3304865" type="application/octet-stream" sparkle:edSignature="g3VFEzIh9WOo8uFYkseyPXQwBs7AUC8ea1Sm6qhxh6L8o23haH+NIwYrnxgh8ySYc9XbfqWKB7AKzLoVAaXZAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry6-5.delta" sparkle:deltaFrom="5" length="167350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ev9qmxM+wz5aTgjUbt+e2tqPGm/WOCWeeWk0SYgWg5wHXRjJHn8stQPyyMy1FlAoHoDnhYeM94WvG/kyYNR4Cg=="/>
-                <enclosure url="https://enrique53xd.github.io/zoundry-updates/Zoundry6-4.delta" sparkle:deltaFrom="4" length="168450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PMzHKGFBxF9JTMRh56Dle+23BNdHUBCww0Y8SUJkDhrHU9etL/gA1WSljODxEcZ7yq/m2uTcxpoGpdyemmYwDA=="/>
             </sparkle:deltas>
         </item>
     </channel>
